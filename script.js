@@ -1,1 +1,1 @@
-var mykey = teste.um;
+var mykey = config.MY_KEY;
