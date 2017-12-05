@@ -1,3 +1,3 @@
 var config = {
-  MY_KEY : '123456'
+  MY_KEY : '100'
 };
