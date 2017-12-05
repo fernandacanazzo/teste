@@ -1,0 +1,1 @@
+var mykey = teste.um;
