@@ -79,7 +79,7 @@
                         var token = accessToken.toString();
                         var res = getInfo(search, token);
                         var cnt = 0;
-                        document.write(res);
+                        document.getElementById('lala').innerHTML = token;
 
                     } else {
                     }
@@ -102,7 +102,7 @@
             }(document, 'script', 'facebook-jssdk'));
 
         </script>
-
+        <div id='lala'></div>
        
     </body>
 </html>
