@@ -1,1 +1,1 @@
-var mykey2 = config2.MY_KEY;
+var mykey = config2.MY_KEY;
