@@ -20,7 +20,7 @@
         </style>
     </head>
     <body style="background-color: #f7f7f7">
-<?php echo 'ola' ?>
+<?php echo 'ola 16/06' ?>
 
     </body>
 </html>
