@@ -15,7 +15,7 @@
                 text-decoration: underline;
             }
             .table-responsive {
-                max-height:380px;
+                max-height:390px;
             }
         </style>
     </head>
